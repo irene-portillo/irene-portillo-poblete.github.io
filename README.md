@@ -1,2 +1,2 @@
-# irene-portillo-poblete.github.io
-Professional website
+# READ ME
+This is meant to be a personal project to create my professional website.
