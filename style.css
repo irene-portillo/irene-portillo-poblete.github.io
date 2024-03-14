@@ -1,0 +1,14 @@
+*{
+    margin: 1;
+    padding: 1;
+
+}
+
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(174, 106, 129, 0.75), rgba(116, 66, 83, 0.75), url(images/plain_pink_banner.png));
+    background-position:center;
+    background-size:cover;
+    position:relative;
+}
